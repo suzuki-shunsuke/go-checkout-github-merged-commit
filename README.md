@@ -1,4 +1,4 @@
-# go-checkout-merged-commit
+# go-checkout-github-merged-commit
 
 Go library to checkout the GitHub Pull Request merged commit.
 
