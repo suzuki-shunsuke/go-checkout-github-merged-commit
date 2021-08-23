@@ -1,4 +1,4 @@
-module github.com/suzuki-shunsuke/go-checkout-merged-commit
+module github.com/suzuki-shunsuke/go-checkout-github-merged-commit
 
 go 1.16
 
