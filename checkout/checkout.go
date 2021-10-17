@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/Songmu/timeout"
-	"github.com/google/go-github/v38/github"
+	"github.com/google/go-github/v39/github"
 	"golang.org/x/oauth2"
 )
 
