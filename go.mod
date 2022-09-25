@@ -1,6 +1,6 @@
 module github.com/suzuki-shunsuke/go-checkout-github-merged-commit
 
-go 1.16
+go 1.19
 
 require (
 	github.com/Songmu/timeout v0.4.0
